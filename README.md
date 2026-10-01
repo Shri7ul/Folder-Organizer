@@ -318,7 +318,7 @@ You do **not** need:
 Recommended GitHub repository:
 
 ```text
-downloads-organizer/
+Folder-organizer/
 │
 ├── start.bat
 ├── README.md
